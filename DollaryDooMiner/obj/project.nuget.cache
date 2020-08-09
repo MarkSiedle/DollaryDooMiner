@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMHOKhvRLta7xDajFvbVwRA93LJgeDY6rQRFIJm0qObHb9WsAsdCzOSuXPnyf6j9UUqeS8SSWdyZvlhCb2WcrA==",
+  "success": true,
+  "projectFilePath": "Z:\\development\\DollaryDooMiner\\DollaryDooMiner\\DollaryDooMiner.csproj",
+  "expectedPackageFiles": [
+    "Z:\\nuget-packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "Z:\\nuget-packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "Z:\\nuget-packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "Z:\\nuget-packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "Z:\\nuget-packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "Z:\\nuget-packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
